@@ -1,10 +1,17 @@
-.name-header{
-  font-size: 40px;
+.name_and_link{
+  width: 419px;
+  margin-bottom: 35px;
 }
-.portfolio-header{
-  font-size: 25px;
-  background-color: #e5e5e5;
+.name_header{
+  font-size: 64px;
+  text-shadow: 0 3px 4px #c4c4c4;
+margin-bottom: 25px;
 }
-.project_list_item{
-  font-size: 20px;
+.social_link_wrap, a{
+  text-decoration: none;
+  color: #0038FF;
+  font-size: 15px;
+}
+.social_link_img{
+  margin-right: 5px;
 }
