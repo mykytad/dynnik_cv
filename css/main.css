@@ -5,7 +5,7 @@
 .name_header{
   font-size: 64px;
   text-shadow: 0 3px 4px #c4c4c4;
-margin-bottom: 25px;
+  margin-bottom: 25px;
 }
 .social_link_wrap, a{
   text-decoration: none;
@@ -14,4 +14,41 @@ margin-bottom: 25px;
 }
 .social_link_img{
   margin-right: 5px;
+}
+.information{
+  margin-bottom: 20px;
+}
+.information_list{
+  padding-left: 0;
+}
+.information_list_item{
+  color: #616161;
+  font-size: 13px;
+}
+.portfolio_paragraph{
+  color: #616161;
+}
+/* .portfolio_card_link :hover{
+  background: #0038FF;
+  box-shadow: none;
+  transition: .5s linear;
+} */
+.card{
+  border: none;
+  border-radius: 16px;
+  padding-top: 161px;
+  box-shadow: 0 0 4px #c4c4c4;
+}
+.portfolio_card_header{
+  color: #999;
+}
+/* .portfolio_card_header :hover{
+  color: #fff;
+  opacity: 0;
+} */
+.technologies_header{
+  margin-bottom: 36px;
+}
+.technologies_list_item{
+  color: #616161;
 }
