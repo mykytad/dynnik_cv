@@ -15,6 +15,7 @@
 .social_link_img{
   margin-right: 5px;
 }
+
 .information{
   margin-bottom: 20px;
 }
@@ -25,27 +26,35 @@
   color: #616161;
   font-size: 13px;
 }
+
+.portfolio{
+  margin-bottom: 55px;
+}
 .portfolio_paragraph{
   color: #616161;
+  margin-bottom: 50px;
 }
-/* .portfolio_card_link :hover{
+.portfolio_card :hover{
   background: #0038FF;
-  box-shadow: none;
-  transition: .5s linear;
-} */
+  color: #fff;
+}
 .card{
   border: none;
   border-radius: 16px;
-  padding-top: 161px;
-  box-shadow: 0 0 4px #c4c4c4;
+  box-shadow: 0 0 20px 10px #c4c4c4; 
 }
-.portfolio_card_header{
-  color: #999;
+.portfolio_card_link{
+  padding: 160px 215px 31px 24px;
+  font-weight: 500;
+  font-size: 30px;
+  opacity: 40%;
 }
-/* .portfolio_card_header :hover{
+.portfolio_card_link_wraper :hover{
+  background: #0038ff;
+  opacity: 100;
   color: #fff;
-  opacity: 0;
-} */
+  box-shadow: none;
+}
 .technologies_header{
   margin-bottom: 36px;
 }
