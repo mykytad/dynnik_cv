@@ -1,5 +1,6 @@
 .name_and_link{
   width: 419px;
+  margin-top: 45px;
   margin-bottom: 35px;
 }
 .name_header{
@@ -15,8 +16,11 @@
 .social_link_img{
   margin-right: 5px;
 }
-
+.education_experience :first-child{
+  margin-right: 110px;
+}
 .information{
+  margin-top: 45px;
   margin-bottom: 20px;
 }
 .information_list{
@@ -33,6 +37,9 @@
 .portfolio_paragraph{
   color: #616161;
   margin-bottom: 50px;
+}
+.portfolio_cards_wraper :first-child{
+  margin-right: 32px;
 }
 .card{
   border: none;
