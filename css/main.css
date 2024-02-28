@@ -16,15 +16,16 @@
 .social_link_img{
   margin-right: 5px;
 }
-.education_experience :first-child{
+.information_list{
+  margin-right: 110px;
+  padding-left: 0;
+}
+.experience_info{  
   margin-right: 110px;
 }
 .information{
   margin-top: 45px;
   margin-bottom: 20px;
-}
-.information_list{
-  padding-left: 0;
 }
 .information_list_item{
   color: #616161;
@@ -38,8 +39,8 @@
   color: #616161;
   margin-bottom: 50px;
 }
-.portfolio_cards_wraper :first-child{
-  margin-right: 32px;
+.portfolio_cards_wraper{
+  padding-left: 2px;
 }
 .card{
   border: none;
@@ -52,6 +53,9 @@
   font-size: 30px;
   opacity: 40%;
   flex-direction: row;
+}
+.app_card{
+  margin-right: 38px;
 }
 .portfolio_card_link_wraper :hover{
   background: #0038ff;
