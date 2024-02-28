@@ -34,10 +34,6 @@
   color: #616161;
   margin-bottom: 50px;
 }
-.portfolio_card :hover{
-  background: #0038FF;
-  color: #fff;
-}
 .card{
   border: none;
   border-radius: 16px;
@@ -48,6 +44,7 @@
   font-weight: 500;
   font-size: 30px;
   opacity: 40%;
+  flex-direction: row;
 }
 .portfolio_card_link_wraper :hover{
   background: #0038ff;
