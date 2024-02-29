@@ -67,3 +67,9 @@
 .technologies_list_item{
   color: #616161;
 }
+
+@media (max-width: 720px) {
+  .name_header{
+    font-size: 60px;
+  }
+}
