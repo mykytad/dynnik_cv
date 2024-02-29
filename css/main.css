@@ -16,12 +16,11 @@
 .social_link_img{
   margin-right: 5px;
 }
-.information_list{
-  margin-right: 110px;
-  padding-left: 0;
-}
 .experience_info{  
   margin-right: 110px;
+}
+.information_list{
+  padding-left: 0;
 }
 .information{
   margin-top: 45px;
@@ -31,7 +30,6 @@
   color: #616161;
   font-size: 13px;
 }
-
 .portfolio{
   margin-bottom: 55px;
 }
